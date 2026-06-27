@@ -1,0 +1,18 @@
+# Bases de datos locales generadas
+quindiohost.db
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de entornos y editores
+.venv
+venv/
+ENV/
+.vscode/
+.idea/
+
+# Carpetas del agente
+.agents/
+.gemini/
