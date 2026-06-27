@@ -19,7 +19,7 @@ Este repositorio contiene la implementación del **QuindíoHost Benchmarker**, u
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <URL_DE_TU_REPOSITORIO>
+git clone [<URL_DE_TU_REPOSITORIO>](https://github.com/januarf121995/QuindiHost-Benchmarker)
 cd QUINDIOHOST-BENCHMARKER
 ```
 
